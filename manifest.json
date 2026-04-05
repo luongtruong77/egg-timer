@@ -1,0 +1,18 @@
+{
+  "name": "Egg Timer",
+  "short_name": "Egg Timer",
+  "description": "A countdown timer that hatches baby animals",
+  "start_url": "./egg-timer.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a0a2e",
+  "theme_color": "#1a0a2e",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
